@@ -38,8 +38,6 @@ Please use this format link issue numbers: Fixes WM-123
 ## Added to documentation?
 
 - [ ] 📜 README.md
-- [ ] 📓 docs.opensauced.pizza
-- [ ] 🍕 dev.to/opensauced
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 
