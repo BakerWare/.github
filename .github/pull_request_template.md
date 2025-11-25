@@ -16,6 +16,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 📜 README.md
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
+- [ ] 📖 Added to Confluence
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
