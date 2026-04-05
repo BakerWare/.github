@@ -1,0 +1,13 @@
+{
+    "name": "Build, Test And Analyze Symfony Application",
+    "description": "",
+    "iconName": "example-icon",
+    "categories": [
+        "PHP",
+        "code-quality",
+        "testing"
+    ],
+    "filePatterns": [
+        "composer.json$",
+    ]
+}
