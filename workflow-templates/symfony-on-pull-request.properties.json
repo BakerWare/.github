@@ -1,13 +1,11 @@
 {
     "name": "Build, Test And Analyze Symfony Application",
     "description": "because required",
-    "iconName": "example-icon",
+    "iconName": "alert-fill",
     "categories": [
-        "PHP",
         "code-quality",
-        "testing"
-    ],
-    "filePatterns": [
-        "composer.json$",
+        "testing",
+        "Symfony",
+        "PHP"
     ]
 }
