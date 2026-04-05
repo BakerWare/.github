@@ -1,0 +1,23 @@
+name: Build, Test And Analayze Application
+
+on:
+    push: 
+        branches:
+            - $default-branch
+    pull_request:
+        types: [ opened, synchronize, reopened ]
+
+jobs:
+    build:
+        uses: BakerWare/auto-devops/.github/workflows/build.yml@v2
+        secrets: inherit
+    
+    test:
+        needs: build
+        uses: BakerWare/auto-devops/.github/workflows/test.yml@v2
+        secrets: inherit
+
+    analyze:
+        needs: build
+        uses: BakerWare/auto-devops/.github/workflows/analyze.yml@v2
+        secrets: inherit
