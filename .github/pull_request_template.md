@@ -18,14 +18,6 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 🙅 no documentation needed
 - [ ] 📖 Added to Confluence
 
-## [Reviewer] IB Classificatie
-
-<!-- 
-Reviewer needs to mark this check. 
--->
-
-- [ ] 📜 IB Controle uitgevoerd
-
 ## [optional] Are there any post-deployment tasks we need to perform?
 
 ## Resources
