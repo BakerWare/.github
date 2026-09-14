@@ -17,9 +17,10 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 📕 storybook
 - [ ] 🙅 no documentation needed
 - [ ] 📖 Added to Confluence
+- [ ] 📖 Added to Open API Docs
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
 ## Resources
 
-- [Secure Software Development](https://bakerware.atlassian.net/wiki/spaces/DEV/pages/292126721/Secure+Software+Development+SSD)
+- [Beleid voor veilig onwikkelen en ontwerpen](https://bakerware.atlassian.net/wiki/spaces/isms/pages/11281339735/Beleid+voor+veilig+ontwikkelen+en+ontwerpen)
